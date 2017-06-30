@@ -1,0 +1,1267 @@
+,from_stop_id,to_stop_id,transfer_type,min_transfer_time,from_stop,to_stop,from_line,to_line
+0,112,A09,2,180,168 St - Washington Hts,168 St,1,A
+1,112,A09,2,180,168 St - Washington Hts,168 St,1,C
+2,120,120,2,180,96 St,96 St,1,2
+3,120,120,2,180,96 St,96 St,1,3
+4,120,120,2,180,96 St,96 St,2,1
+5,120,120,2,180,96 St,96 St,2,3
+6,120,120,2,180,96 St,96 St,3,1
+7,120,120,2,180,96 St,96 St,3,2
+8,123,123,2,0,72 St,72 St,1,2
+9,123,123,2,0,72 St,72 St,1,3
+10,123,123,2,0,72 St,72 St,2,1
+11,123,123,2,0,72 St,72 St,2,3
+12,123,123,2,0,72 St,72 St,3,1
+13,123,123,2,0,72 St,72 St,3,2
+14,125,A24,2,180,59 St - Columbus Circle,59 St - Columbus Circle,1,A
+15,125,A24,2,180,59 St - Columbus Circle,59 St - Columbus Circle,1,B
+16,125,A24,2,180,59 St - Columbus Circle,59 St - Columbus Circle,1,C
+17,125,A24,2,180,59 St - Columbus Circle,59 St - Columbus Circle,1,D
+18,127,127,2,0,Times Sq - 42 St,Times Sq - 42 St,1,2
+19,127,127,2,0,Times Sq - 42 St,Times Sq - 42 St,1,3
+20,127,127,2,0,Times Sq - 42 St,Times Sq - 42 St,2,1
+21,127,127,2,0,Times Sq - 42 St,Times Sq - 42 St,2,3
+22,127,127,2,0,Times Sq - 42 St,Times Sq - 42 St,3,1
+23,127,127,2,0,Times Sq - 42 St,Times Sq - 42 St,3,2
+24,127,725,2,180,Times Sq - 42 St,Times Sq - 42 St,1,7
+25,127,725,2,180,Times Sq - 42 St,Times Sq - 42 St,2,7
+26,127,725,2,180,Times Sq - 42 St,Times Sq - 42 St,3,7
+27,127,902,2,180,Times Sq - 42 St,Times Sq - 42 St,1,S
+28,127,902,2,180,Times Sq - 42 St,Times Sq - 42 St,2,S
+29,127,902,2,180,Times Sq - 42 St,Times Sq - 42 St,3,S
+30,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,1,A
+31,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,1,C
+32,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,1,E
+33,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,2,A
+34,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,2,C
+35,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,2,E
+36,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,3,A
+37,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,3,C
+38,127,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,3,E
+39,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,1,N
+40,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,1,Q
+41,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,1,R
+42,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,1,W
+43,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,2,N
+44,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,2,Q
+45,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,2,R
+46,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,2,W
+47,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,3,N
+48,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,3,Q
+49,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,3,R
+50,127,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,3,W
+51,128,128,2,300,34 St - Penn Station,34 St - Penn Station,1,2
+52,128,128,2,300,34 St - Penn Station,34 St - Penn Station,1,3
+53,128,128,2,300,34 St - Penn Station,34 St - Penn Station,2,1
+54,128,128,2,300,34 St - Penn Station,34 St - Penn Station,2,3
+55,128,128,2,300,34 St - Penn Station,34 St - Penn Station,3,1
+56,128,128,2,300,34 St - Penn Station,34 St - Penn Station,3,2
+57,132,132,2,0,14 St,14 St,1,2
+58,132,132,2,0,14 St,14 St,1,3
+59,132,132,2,0,14 St,14 St,2,1
+60,132,132,2,0,14 St,14 St,2,3
+61,132,132,2,0,14 St,14 St,3,1
+62,132,132,2,0,14 St,14 St,3,2
+63,132,D19,2,300,14 St,14 St,1,F
+64,132,D19,2,300,14 St,14 St,1,M
+65,132,D19,2,300,14 St,14 St,2,F
+66,132,D19,2,300,14 St,14 St,2,M
+67,132,D19,2,300,14 St,14 St,3,F
+68,132,D19,2,300,14 St,14 St,3,M
+69,132,L02,2,180,14 St,6 Av,1,L
+70,132,L02,2,180,14 St,6 Av,2,L
+71,132,L02,2,180,14 St,6 Av,3,L
+72,137,137,2,180,Chambers St,Chambers St,1,2
+73,137,137,2,180,Chambers St,Chambers St,1,3
+74,137,137,2,180,Chambers St,Chambers St,2,1
+75,137,137,2,180,Chambers St,Chambers St,2,3
+76,137,137,2,180,Chambers St,Chambers St,3,1
+77,137,137,2,180,Chambers St,Chambers St,3,2
+78,140,R27,2,120,South Ferry Loop,Whitehall St,1,R
+79,140,R27,2,120,South Ferry Loop,Whitehall St,1,W
+80,204,204,2,180,Nereid Av,Nereid Av,2,5
+81,204,204,2,180,Nereid Av,Nereid Av,5,2
+82,205,205,2,180,233 St,233 St,2,5
+83,205,205,2,180,233 St,233 St,5,2
+84,206,206,2,180,225 St,225 St,2,5
+85,206,206,2,180,225 St,225 St,5,2
+86,207,207,2,180,219 St,219 St,2,5
+87,207,207,2,180,219 St,219 St,5,2
+88,208,208,2,180,Gun Hill Rd,Gun Hill Rd,2,5
+89,208,208,2,180,Gun Hill Rd,Gun Hill Rd,5,2
+90,209,209,2,180,Burke Av,Burke Av,2,5
+91,209,209,2,180,Burke Av,Burke Av,5,2
+92,210,210,2,180,Allerton Av,Allerton Av,2,5
+93,210,210,2,180,Allerton Av,Allerton Av,5,2
+94,211,211,2,180,Pelham Pkwy,Pelham Pkwy,2,5
+95,211,211,2,180,Pelham Pkwy,Pelham Pkwy,5,2
+96,212,212,2,180,Bronx Park East,Bronx Park East,2,5
+97,212,212,2,180,Bronx Park East,Bronx Park East,5,2
+98,213,213,2,180,E 180 St,E 180 St,2,5
+99,213,213,2,180,E 180 St,E 180 St,5,2
+100,214,214,2,180,West Farms Sq - E Tremont Av,West Farms Sq - E Tremont Av,2,5
+101,214,214,2,180,West Farms Sq - E Tremont Av,West Farms Sq - E Tremont Av,5,2
+102,215,215,2,180,174 St,174 St,2,5
+103,215,215,2,180,174 St,174 St,5,2
+104,216,216,2,180,Freeman St,Freeman St,2,5
+105,216,216,2,180,Freeman St,Freeman St,5,2
+106,217,217,2,180,Simpson St,Simpson St,2,5
+107,217,217,2,180,Simpson St,Simpson St,5,2
+108,218,218,2,180,Intervale Av,Intervale Av,2,5
+109,218,218,2,180,Intervale Av,Intervale Av,5,2
+110,219,219,2,180,Prospect Av,Prospect Av,2,5
+111,219,219,2,180,Prospect Av,Prospect Av,5,2
+112,220,220,2,180,Jackson Av,Jackson Av,2,5
+113,220,220,2,180,Jackson Av,Jackson Av,5,2
+114,221,221,2,180,3 Av - 149 St,3 Av - 149 St,2,5
+115,221,221,2,180,3 Av - 149 St,3 Av - 149 St,5,2
+116,222,222,2,180,149 St - Grand Concourse,149 St - Grand Concourse,2,5
+117,222,222,2,180,149 St - Grand Concourse,149 St - Grand Concourse,5,2
+118,222,415,2,180,149 St - Grand Concourse,149 St - Grand Concourse,2,4
+119,222,415,2,180,149 St - Grand Concourse,149 St - Grand Concourse,5,4
+120,227,227,2,0,Central Park North (110 St),Central Park North (110 St),2,3
+121,227,227,2,0,Central Park North (110 St),Central Park North (110 St),3,2
+122,228,228,2,180,Park Pl,Park Pl,2,3
+123,228,228,2,180,Park Pl,Park Pl,3,2
+124,228,A36,2,180,Park Pl,Chambers St,2,A
+125,228,A36,2,180,Park Pl,Chambers St,2,C
+126,228,A36,2,180,Park Pl,Chambers St,3,A
+127,228,A36,2,180,Park Pl,Chambers St,3,C
+128,228,E01,2,180,Park Pl,World Trade Center,2,E
+129,228,E01,2,180,Park Pl,World Trade Center,3,E
+130,229,229,2,180,Fulton St,Fulton St,2,3
+131,229,229,2,180,Fulton St,Fulton St,3,2
+132,229,418,2,300,Fulton St,Fulton St,2,4
+133,229,418,2,300,Fulton St,Fulton St,2,5
+134,229,418,2,300,Fulton St,Fulton St,3,4
+135,229,418,2,300,Fulton St,Fulton St,3,5
+136,229,A38,2,180,Fulton St,Fulton St,2,A
+137,229,A38,2,180,Fulton St,Fulton St,2,C
+138,229,A38,2,180,Fulton St,Fulton St,3,A
+139,229,A38,2,180,Fulton St,Fulton St,3,C
+140,229,M22,2,300,Fulton St,Fulton St,2,J
+141,229,M22,2,300,Fulton St,Fulton St,2,Z
+142,229,M22,2,300,Fulton St,Fulton St,3,J
+143,229,M22,2,300,Fulton St,Fulton St,3,Z
+144,230,230,2,180,Wall St,Wall St,2,3
+145,230,230,2,180,Wall St,Wall St,3,2
+146,231,231,2,180,Clark St,Clark St,2,3
+147,231,231,2,180,Clark St,Clark St,3,2
+148,232,232,2,180,Borough Hall,Borough Hall,2,3
+149,232,232,2,180,Borough Hall,Borough Hall,3,2
+150,232,423,2,300,Borough Hall,Borough Hall,2,4
+151,232,423,2,300,Borough Hall,Borough Hall,2,5
+152,232,423,2,300,Borough Hall,Borough Hall,3,4
+153,232,423,2,300,Borough Hall,Borough Hall,3,5
+154,232,R28,2,180,Borough Hall,Court St,2,R
+155,232,R28,2,180,Borough Hall,Court St,3,R
+156,233,233,2,180,Hoyt St,Hoyt St,2,3
+157,233,233,2,180,Hoyt St,Hoyt St,3,2
+158,234,234,2,0,Nevins St,Nevins St,2,3
+159,234,234,2,0,Nevins St,Nevins St,2,4
+160,234,234,2,0,Nevins St,Nevins St,2,5
+161,234,234,2,0,Nevins St,Nevins St,3,2
+162,234,234,2,0,Nevins St,Nevins St,3,4
+163,234,234,2,0,Nevins St,Nevins St,3,5
+164,234,234,2,0,Nevins St,Nevins St,4,2
+165,234,234,2,0,Nevins St,Nevins St,4,3
+166,234,234,2,0,Nevins St,Nevins St,4,5
+167,234,234,2,0,Nevins St,Nevins St,5,2
+168,234,234,2,0,Nevins St,Nevins St,5,3
+169,234,234,2,0,Nevins St,Nevins St,5,4
+170,235,235,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,2,3
+171,235,235,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,3,2
+172,235,D24,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,2,B
+173,235,D24,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,2,Q
+174,235,D24,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,3,B
+175,235,D24,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,3,Q
+176,235,R31,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,2,D
+177,235,R31,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,2,N
+178,235,R31,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,2,R
+179,235,R31,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,3,D
+180,235,R31,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,3,N
+181,235,R31,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,3,R
+182,236,236,2,180,Bergen St,Bergen St,2,3
+183,236,236,2,180,Bergen St,Bergen St,3,2
+184,237,237,2,180,Grand Army Plaza,Grand Army Plaza,2,3
+185,237,237,2,180,Grand Army Plaza,Grand Army Plaza,3,2
+186,238,238,2,180,Eastern Pkwy - Brooklyn Museum,Eastern Pkwy - Brooklyn Museum,2,3
+187,238,238,2,180,Eastern Pkwy - Brooklyn Museum,Eastern Pkwy - Brooklyn Museum,3,2
+188,239,239,2,0,Franklin Av,Franklin Av,2,3
+189,239,239,2,0,Franklin Av,Franklin Av,2,4
+190,239,239,2,0,Franklin Av,Franklin Av,2,5
+191,239,239,2,0,Franklin Av,Franklin Av,3,2
+192,239,239,2,0,Franklin Av,Franklin Av,3,4
+193,239,239,2,0,Franklin Av,Franklin Av,3,5
+194,239,239,2,0,Franklin Av,Franklin Av,4,2
+195,239,239,2,0,Franklin Av,Franklin Av,4,3
+196,239,239,2,0,Franklin Av,Franklin Av,4,5
+197,239,239,2,0,Franklin Av,Franklin Av,5,2
+198,239,239,2,0,Franklin Av,Franklin Av,5,3
+199,239,239,2,0,Franklin Av,Franklin Av,5,4
+200,239,S04,2,180,Franklin Av,Botanic Garden,2,S
+201,239,S04,2,180,Franklin Av,Botanic Garden,3,S
+202,239,S04,2,180,Franklin Av,Botanic Garden,4,S
+203,239,S04,2,180,Franklin Av,Botanic Garden,5,S
+204,241,241,2,180,President St,President St,2,5
+205,241,241,2,180,President St,President St,5,2
+206,242,242,2,180,Sterling St,Sterling St,2,5
+207,242,242,2,180,Sterling St,Sterling St,5,2
+208,243,243,2,180,Winthrop St,Winthrop St,2,5
+209,243,243,2,180,Winthrop St,Winthrop St,5,2
+210,244,244,2,180,Church Av,Church Av,2,5
+211,244,244,2,180,Church Av,Church Av,5,2
+212,245,245,2,180,Beverly Rd,Beverly Rd,2,5
+213,245,245,2,180,Beverly Rd,Beverly Rd,5,2
+214,246,246,2,180,Newkirk Av,Newkirk Av,2,5
+215,246,246,2,180,Newkirk Av,Newkirk Av,5,2
+216,247,247,2,180,Flatbush Av - Brooklyn College,Flatbush Av - Brooklyn College,2,5
+217,247,247,2,180,Flatbush Av - Brooklyn College,Flatbush Av - Brooklyn College,5,2
+218,250,250,2,0,Crown Hts - Utica Av,Crown Hts - Utica Av,3,4
+219,250,250,2,0,Crown Hts - Utica Av,Crown Hts - Utica Av,4,3
+220,254,L26,2,300,Junius St,Livonia Av,3,L
+221,414,D11,2,180,161 St - Yankee Stadium,161 St - Yankee Stadium,4,B
+222,414,D11,2,180,161 St - Yankee Stadium,161 St - Yankee Stadium,4,D
+223,415,222,2,180,149 St - Grand Concourse,149 St - Grand Concourse,4,2
+224,415,222,2,180,149 St - Grand Concourse,149 St - Grand Concourse,4,5
+225,416,416,2,180,138 St - Grand Concourse,138 St - Grand Concourse,4,5
+226,416,416,2,180,138 St - Grand Concourse,138 St - Grand Concourse,5,4
+227,418,229,2,300,Fulton St,Fulton St,4,2
+228,418,229,2,300,Fulton St,Fulton St,4,3
+229,418,229,2,300,Fulton St,Fulton St,5,2
+230,418,229,2,300,Fulton St,Fulton St,5,3
+231,418,418,2,180,Fulton St,Fulton St,4,5
+232,418,418,2,180,Fulton St,Fulton St,5,4
+233,418,A38,2,180,Fulton St,Fulton St,4,A
+234,418,A38,2,180,Fulton St,Fulton St,4,C
+235,418,A38,2,180,Fulton St,Fulton St,5,A
+236,418,A38,2,180,Fulton St,Fulton St,5,C
+237,418,M22,2,300,Fulton St,Fulton St,4,J
+238,418,M22,2,300,Fulton St,Fulton St,4,Z
+239,418,M22,2,300,Fulton St,Fulton St,5,J
+240,418,M22,2,300,Fulton St,Fulton St,5,Z
+241,419,419,2,180,Wall St,Wall St,4,5
+242,419,419,2,180,Wall St,Wall St,5,4
+243,420,420,2,180,Bowling Green,Bowling Green,4,5
+244,420,420,2,180,Bowling Green,Bowling Green,5,4
+245,423,232,2,300,Borough Hall,Borough Hall,4,2
+246,423,232,2,300,Borough Hall,Borough Hall,4,3
+247,423,232,2,300,Borough Hall,Borough Hall,5,2
+248,423,232,2,300,Borough Hall,Borough Hall,5,3
+249,423,423,2,180,Borough Hall,Borough Hall,4,5
+250,423,423,2,180,Borough Hall,Borough Hall,5,4
+251,423,R28,2,180,Borough Hall,Court St,4,R
+252,423,R28,2,180,Borough Hall,Court St,5,R
+253,621,621,2,180,125 St,125 St,4,5
+254,621,621,2,180,125 St,125 St,4,6
+255,621,621,2,180,125 St,125 St,5,4
+256,621,621,2,180,125 St,125 St,5,6
+257,621,621,2,180,125 St,125 St,6,4
+258,621,621,2,180,125 St,125 St,6,5
+259,626,626,2,180,86 St,86 St,4,5
+260,626,626,2,180,86 St,86 St,4,6
+261,626,626,2,180,86 St,86 St,5,4
+262,626,626,2,180,86 St,86 St,5,6
+263,626,626,2,180,86 St,86 St,6,4
+264,626,626,2,180,86 St,86 St,6,5
+265,629,629,2,180,59 St,59 St,4,5
+266,629,629,2,180,59 St,59 St,4,6
+267,629,629,2,180,59 St,59 St,5,4
+268,629,629,2,180,59 St,59 St,5,6
+269,629,629,2,180,59 St,59 St,6,4
+270,629,629,2,180,59 St,59 St,6,5
+271,629,B08,2,300,59 St,Lexington Av/63 St,4,F
+272,629,B08,2,300,59 St,Lexington Av/63 St,4,Q
+273,629,B08,2,300,59 St,Lexington Av/63 St,5,F
+274,629,B08,2,300,59 St,Lexington Av/63 St,5,Q
+275,629,B08,2,300,59 St,Lexington Av/63 St,6,F
+276,629,B08,2,300,59 St,Lexington Av/63 St,6,Q
+277,629,R11,2,180,59 St,Lexington Av/59 St,4,N
+278,629,R11,2,180,59 St,Lexington Av/59 St,4,W
+279,629,R11,2,180,59 St,Lexington Av/59 St,4,R
+280,629,R11,2,180,59 St,Lexington Av/59 St,5,N
+281,629,R11,2,180,59 St,Lexington Av/59 St,5,W
+282,629,R11,2,180,59 St,Lexington Av/59 St,5,R
+283,629,R11,2,180,59 St,Lexington Av/59 St,6,N
+284,629,R11,2,180,59 St,Lexington Av/59 St,6,W
+285,629,R11,2,180,59 St,Lexington Av/59 St,6,R
+286,630,F11,2,180,51 St,Lexington Av/53 St,6,E
+287,630,F11,2,180,51 St,Lexington Av/53 St,6,M
+288,631,631,2,0,Grand Central - 42 St,Grand Central - 42 St,4,5
+289,631,631,2,0,Grand Central - 42 St,Grand Central - 42 St,4,6
+290,631,631,2,0,Grand Central - 42 St,Grand Central - 42 St,5,4
+291,631,631,2,0,Grand Central - 42 St,Grand Central - 42 St,5,6
+292,631,631,2,0,Grand Central - 42 St,Grand Central - 42 St,6,4
+293,631,631,2,0,Grand Central - 42 St,Grand Central - 42 St,6,5
+294,631,723,2,180,Grand Central - 42 St,Grand Central - 42 St,4,7
+295,631,723,2,180,Grand Central - 42 St,Grand Central - 42 St,5,7
+296,631,723,2,180,Grand Central - 42 St,Grand Central - 42 St,6,7
+297,631,901,2,180,Grand Central - 42 St,Grand Central - 42 St,4,S
+298,631,901,2,180,Grand Central - 42 St,Grand Central - 42 St,5,S
+299,631,901,2,180,Grand Central - 42 St,Grand Central - 42 St,6,S
+300,635,635,2,0,14 St - Union Sq,14 St - Union Sq,4,5
+301,635,635,2,0,14 St - Union Sq,14 St - Union Sq,4,6
+302,635,635,2,0,14 St - Union Sq,14 St - Union Sq,5,4
+303,635,635,2,0,14 St - Union Sq,14 St - Union Sq,5,6
+304,635,635,2,0,14 St - Union Sq,14 St - Union Sq,6,4
+305,635,635,2,0,14 St - Union Sq,14 St - Union Sq,6,5
+306,635,L03,2,180,14 St - Union Sq,Union Sq - 14 St,4,L
+307,635,L03,2,180,14 St - Union Sq,Union Sq - 14 St,5,L
+308,635,L03,2,180,14 St - Union Sq,Union Sq - 14 St,6,L
+309,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,4,N
+310,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,4,Q
+311,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,4,R
+312,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,4,W
+313,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,5,N
+314,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,5,Q
+315,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,5,R
+316,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,5,W
+317,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,6,N
+318,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,6,Q
+319,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,6,R
+320,635,R20,2,180,14 St - Union Sq,14 St - Union Sq,6,W
+321,637,D21,2,180,Bleecker St,Broadway-Lafayette St,6,B
+322,637,D21,2,180,Bleecker St,Broadway-Lafayette St,6,D
+323,637,D21,2,180,Bleecker St,Broadway-Lafayette St,6,F
+324,637,D21,2,180,Bleecker St,Broadway-Lafayette St,6,M
+325,639,M20,2,180,Canal St,Canal St,6,J
+326,639,M20,2,180,Canal St,Canal St,6,Z
+327,639,Q01,2,180,Canal St,Canal St,6,N
+328,639,Q01,2,180,Canal St,Canal St,6,Q
+329,639,R23,2,180,Canal St,Canal St,6,R
+330,639,R23,2,180,Canal St,Canal St,6,W
+331,640,640,2,0,Brooklyn Bridge - City Hall,Brooklyn Bridge - City Hall,4,5
+332,640,640,2,0,Brooklyn Bridge - City Hall,Brooklyn Bridge - City Hall,4,6
+333,640,640,2,0,Brooklyn Bridge - City Hall,Brooklyn Bridge - City Hall,5,4
+334,640,640,2,0,Brooklyn Bridge - City Hall,Brooklyn Bridge - City Hall,5,6
+335,640,640,2,0,Brooklyn Bridge - City Hall,Brooklyn Bridge - City Hall,6,4
+336,640,640,2,0,Brooklyn Bridge - City Hall,Brooklyn Bridge - City Hall,6,5
+337,640,M21,2,180,Brooklyn Bridge - City Hall,Chambers St,4,J
+338,640,M21,2,180,Brooklyn Bridge - City Hall,Chambers St,4,Z
+339,640,M21,2,180,Brooklyn Bridge - City Hall,Chambers St,5,J
+340,640,M21,2,180,Brooklyn Bridge - City Hall,Chambers St,5,Z
+341,640,M21,2,180,Brooklyn Bridge - City Hall,Chambers St,6,J
+342,640,M21,2,180,Brooklyn Bridge - City Hall,Chambers St,6,Z
+343,710,G14,2,180,74 St - Broadway,Jackson Hts - Roosevelt Av,7,E
+344,710,G14,2,180,74 St - Broadway,Jackson Hts - Roosevelt Av,7,F
+345,710,G14,2,180,74 St - Broadway,Jackson Hts - Roosevelt Av,7,M
+346,710,G14,2,180,74 St - Broadway,Jackson Hts - Roosevelt Av,7,R
+347,718,R09,2,0,Queensboro Plaza,Queensboro Plaza,7,N
+348,718,R09,2,0,Queensboro Plaza,Queensboro Plaza,7,W
+349,719,F09,2,300,Court Sq,Court Sq,7,E
+350,719,F09,2,300,Court Sq,Court Sq,7,M
+351,719,G22,2,180,Court Sq,Court Sq,7,G
+352,723,631,2,180,Grand Central - 42 St,Grand Central - 42 St,7,4
+353,723,631,2,180,Grand Central - 42 St,Grand Central - 42 St,7,5
+354,723,631,2,180,Grand Central - 42 St,Grand Central - 42 St,7,6
+355,723,901,2,300,Grand Central - 42 St,Grand Central - 42 St,7,S
+356,724,D16,2,180,5 Av,42 St - Bryant Pk,7,B
+357,724,D16,2,180,5 Av,42 St - Bryant Pk,7,D
+358,724,D16,2,180,5 Av,42 St - Bryant Pk,7,F
+359,724,D16,2,180,5 Av,42 St - Bryant Pk,7,M
+360,725,127,2,180,Times Sq - 42 St,Times Sq - 42 St,7,1
+361,725,127,2,180,Times Sq - 42 St,Times Sq - 42 St,7,2
+362,725,127,2,180,Times Sq - 42 St,Times Sq - 42 St,7,3
+363,725,902,2,300,Times Sq - 42 St,Times Sq - 42 St,7,S
+364,725,A27,2,180,Times Sq - 42 St,42 St - Port Authority Bus Terminal,7,A
+365,725,A27,2,180,Times Sq - 42 St,42 St - Port Authority Bus Terminal,7,C
+366,725,A27,2,180,Times Sq - 42 St,42 St - Port Authority Bus Terminal,7,E
+367,725,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,7,N
+368,725,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,7,Q
+369,725,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,7,R
+370,725,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,7,W
+371,901,631,2,180,Grand Central - 42 St,Grand Central - 42 St,S,4
+372,901,631,2,180,Grand Central - 42 St,Grand Central - 42 St,S,5
+373,901,631,2,180,Grand Central - 42 St,Grand Central - 42 St,S,6
+374,901,723,2,300,Grand Central - 42 St,Grand Central - 42 St,S,7
+375,902,127,2,180,Times Sq - 42 St,Times Sq - 42 St,S,1
+376,902,127,2,180,Times Sq - 42 St,Times Sq - 42 St,S,2
+377,902,127,2,180,Times Sq - 42 St,Times Sq - 42 St,S,3
+378,902,725,2,300,Times Sq - 42 St,Times Sq - 42 St,S,7
+379,902,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,S,A
+380,902,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,S,C
+381,902,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,S,E
+382,902,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,S,N
+383,902,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,S,Q
+384,902,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,S,R
+385,902,R16,2,180,Times Sq - 42 St,Times Sq - 42 St,S,W
+386,A09,112,2,180,168 St,168 St - Washington Hts,A,1
+387,A09,112,2,180,168 St,168 St - Washington Hts,C,1
+388,A09,A09,2,0,168 St,168 St,A,C
+389,A09,A09,2,0,168 St,168 St,C,A
+390,A12,A12,2,0,145 St,145 St,A,C
+391,A12,A12,2,0,145 St,145 St,C,A
+392,A12,D13,2,180,145 St,145 St,A,B
+393,A12,D13,2,180,145 St,145 St,A,D
+394,A12,D13,2,180,145 St,145 St,C,B
+395,A12,D13,2,180,145 St,145 St,C,D
+396,A14,A14,2,180,135 St,135 St,B,C
+397,A14,A14,2,180,135 St,135 St,C,B
+398,A15,A15,2,0,125 St,125 St,A,B
+399,A15,A15,2,0,125 St,125 St,A,C
+400,A15,A15,2,0,125 St,125 St,A,D
+401,A15,A15,2,0,125 St,125 St,B,A
+402,A15,A15,2,0,125 St,125 St,B,C
+403,A15,A15,2,0,125 St,125 St,B,D
+404,A15,A15,2,0,125 St,125 St,C,A
+405,A15,A15,2,0,125 St,125 St,C,B
+406,A15,A15,2,0,125 St,125 St,C,D
+407,A15,A15,2,0,125 St,125 St,D,A
+408,A15,A15,2,0,125 St,125 St,D,B
+409,A15,A15,2,0,125 St,125 St,D,C
+410,A16,A16,2,180,116 St,116 St,B,C
+411,A16,A16,2,180,116 St,116 St,C,B
+412,A17,A17,2,180,Cathedral Pkwy (110 St),Cathedral Pkwy (110 St),B,C
+413,A17,A17,2,180,Cathedral Pkwy (110 St),Cathedral Pkwy (110 St),C,B
+414,A18,A18,2,180,103 St,103 St,B,C
+415,A18,A18,2,180,103 St,103 St,C,B
+416,A19,A19,2,180,96 St,96 St,B,C
+417,A19,A19,2,180,96 St,96 St,C,B
+418,A20,A20,2,180,86 St,86 St,B,C
+419,A20,A20,2,180,86 St,86 St,C,B
+420,A21,A21,2,180,81 St - Museum of Natural History,81 St - Museum of Natural History,B,C
+421,A21,A21,2,180,81 St - Museum of Natural History,81 St - Museum of Natural History,C,B
+422,A22,A22,2,180,72 St,72 St,B,C
+423,A22,A22,2,180,72 St,72 St,C,B
+424,A24,125,2,180,59 St - Columbus Circle,59 St - Columbus Circle,A,1
+425,A24,125,2,180,59 St - Columbus Circle,59 St - Columbus Circle,B,1
+426,A24,125,2,180,59 St - Columbus Circle,59 St - Columbus Circle,C,1
+427,A24,125,2,180,59 St - Columbus Circle,59 St - Columbus Circle,D,1
+428,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,A,B
+429,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,A,C
+430,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,A,D
+431,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,B,A
+432,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,B,C
+433,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,B,D
+434,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,C,A
+435,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,C,B
+436,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,C,D
+437,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,D,A
+438,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,D,B
+439,A24,A24,2,0,59 St - Columbus Circle,59 St - Columbus Circle,D,C
+440,A25,A25,2,180,50 St,50 St,C,E
+441,A25,A25,2,180,50 St,50 St,E,C
+442,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,1
+443,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,2
+444,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,3
+445,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,1
+446,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,2
+447,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,3
+448,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,1
+449,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,2
+450,A27,127,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,3
+451,A27,725,2,180,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,7
+452,A27,725,2,180,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,7
+453,A27,725,2,180,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,7
+454,A27,902,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,S
+455,A27,902,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,S
+456,A27,902,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,S
+457,A27,A27,2,0,42 St - Port Authority Bus Terminal,42 St - Port Authority Bus Terminal,A,C
+458,A27,A27,2,0,42 St - Port Authority Bus Terminal,42 St - Port Authority Bus Terminal,A,E
+459,A27,A27,2,0,42 St - Port Authority Bus Terminal,42 St - Port Authority Bus Terminal,C,A
+460,A27,A27,2,0,42 St - Port Authority Bus Terminal,42 St - Port Authority Bus Terminal,C,E
+461,A27,A27,2,0,42 St - Port Authority Bus Terminal,42 St - Port Authority Bus Terminal,E,A
+462,A27,A27,2,0,42 St - Port Authority Bus Terminal,42 St - Port Authority Bus Terminal,E,C
+463,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,N
+464,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,Q
+465,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,R
+466,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,A,W
+467,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,N
+468,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,Q
+469,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,R
+470,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,C,W
+471,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,N
+472,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,Q
+473,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,R
+474,A27,R16,2,300,42 St - Port Authority Bus Terminal,Times Sq - 42 St,E,W
+475,A28,A28,2,300,34 St - Penn Station,34 St - Penn Station,A,C
+476,A28,A28,2,300,34 St - Penn Station,34 St - Penn Station,A,E
+477,A28,A28,2,300,34 St - Penn Station,34 St - Penn Station,C,A
+478,A28,A28,2,300,34 St - Penn Station,34 St - Penn Station,C,E
+479,A28,A28,2,300,34 St - Penn Station,34 St - Penn Station,E,A
+480,A28,A28,2,300,34 St - Penn Station,34 St - Penn Station,E,C
+481,A30,A30,2,180,23 St,23 St,C,E
+482,A30,A30,2,180,23 St,23 St,E,C
+483,A31,A31,2,0,14 St,14 St,A,C
+484,A31,A31,2,0,14 St,14 St,A,E
+485,A31,A31,2,0,14 St,14 St,C,A
+486,A31,A31,2,0,14 St,14 St,C,E
+487,A31,A31,2,0,14 St,14 St,E,A
+488,A31,A31,2,0,14 St,14 St,E,C
+489,A31,L01,2,90,14 St,8 Av,A,L
+490,A31,L01,2,90,14 St,8 Av,C,L
+491,A31,L01,2,90,14 St,8 Av,E,L
+492,A32,A32,2,0,W 4 St,W 4 St,A,C
+493,A32,A32,2,0,W 4 St,W 4 St,A,E
+494,A32,A32,2,0,W 4 St,W 4 St,C,A
+495,A32,A32,2,0,W 4 St,W 4 St,C,E
+496,A32,A32,2,0,W 4 St,W 4 St,E,A
+497,A32,A32,2,0,W 4 St,W 4 St,E,C
+498,A32,D20,2,180,W 4 St,W 4 St,A,B
+499,A32,D20,2,180,W 4 St,W 4 St,A,D
+500,A32,D20,2,180,W 4 St,W 4 St,A,F
+501,A32,D20,2,180,W 4 St,W 4 St,A,M
+502,A32,D20,2,180,W 4 St,W 4 St,C,B
+503,A32,D20,2,180,W 4 St,W 4 St,C,D
+504,A32,D20,2,180,W 4 St,W 4 St,C,F
+505,A32,D20,2,180,W 4 St,W 4 St,C,M
+506,A32,D20,2,180,W 4 St,W 4 St,E,B
+507,A32,D20,2,180,W 4 St,W 4 St,E,D
+508,A32,D20,2,180,W 4 St,W 4 St,E,F
+509,A32,D20,2,180,W 4 St,W 4 St,E,M
+510,A33,A33,2,180,Spring St,Spring St,C,E
+511,A33,A33,2,180,Spring St,Spring St,E,C
+512,A34,A34,2,0,Canal St,Canal St,A,C
+513,A34,A34,2,0,Canal St,Canal St,A,E
+514,A34,A34,2,0,Canal St,Canal St,C,A
+515,A34,A34,2,0,Canal St,Canal St,C,E
+516,A34,A34,2,0,Canal St,Canal St,E,A
+517,A34,A34,2,0,Canal St,Canal St,E,C
+518,A36,228,2,180,Chambers St,Park Pl,A,2
+519,A36,228,2,180,Chambers St,Park Pl,A,3
+520,A36,228,2,180,Chambers St,Park Pl,C,2
+521,A36,228,2,180,Chambers St,Park Pl,C,3
+522,A36,A36,2,180,Chambers St,Chambers St,A,C
+523,A36,A36,2,180,Chambers St,Chambers St,C,A
+524,A36,E01,2,300,Chambers St,World Trade Center,A,E
+525,A36,E01,2,300,Chambers St,World Trade Center,C,E
+526,A38,229,2,180,Fulton St,Fulton St,A,2
+527,A38,229,2,180,Fulton St,Fulton St,A,3
+528,A38,229,2,180,Fulton St,Fulton St,C,2
+529,A38,229,2,180,Fulton St,Fulton St,C,3
+530,A38,418,2,180,Fulton St,Fulton St,A,4
+531,A38,418,2,180,Fulton St,Fulton St,A,5
+532,A38,418,2,180,Fulton St,Fulton St,C,4
+533,A38,418,2,180,Fulton St,Fulton St,C,5
+534,A38,A38,2,180,Fulton St,Fulton St,A,C
+535,A38,A38,2,180,Fulton St,Fulton St,C,A
+536,A38,M22,2,180,Fulton St,Fulton St,A,J
+537,A38,M22,2,180,Fulton St,Fulton St,A,Z
+538,A38,M22,2,180,Fulton St,Fulton St,C,J
+539,A38,M22,2,180,Fulton St,Fulton St,C,Z
+540,A40,A40,2,180,High St,High St,A,C
+541,A40,A40,2,180,High St,High St,C,A
+542,A41,A41,2,180,Jay St - MetroTech,Jay St - MetroTech,A,C
+543,A41,A41,2,180,Jay St - MetroTech,Jay St - MetroTech,A,F
+544,A41,A41,2,180,Jay St - MetroTech,Jay St - MetroTech,C,A
+545,A41,A41,2,180,Jay St - MetroTech,Jay St - MetroTech,C,F
+546,A41,A41,2,180,Jay St - MetroTech,Jay St - MetroTech,F,A
+547,A41,A41,2,180,Jay St - MetroTech,Jay St - MetroTech,F,C
+548,A41,R29,2,90,Jay St - MetroTech,Jay St - MetroTech,A,R
+549,A41,R29,2,90,Jay St - MetroTech,Jay St - MetroTech,C,R
+550,A41,R29,2,90,Jay St - MetroTech,Jay St - MetroTech,F,R
+551,A42,A42,2,180,Hoyt - Schermerhorn Sts,Hoyt - Schermerhorn Sts,A,C
+552,A42,A42,2,180,Hoyt - Schermerhorn Sts,Hoyt - Schermerhorn Sts,A,G
+553,A42,A42,2,180,Hoyt - Schermerhorn Sts,Hoyt - Schermerhorn Sts,C,A
+554,A42,A42,2,180,Hoyt - Schermerhorn Sts,Hoyt - Schermerhorn Sts,C,G
+555,A42,A42,2,180,Hoyt - Schermerhorn Sts,Hoyt - Schermerhorn Sts,G,A
+556,A42,A42,2,180,Hoyt - Schermerhorn Sts,Hoyt - Schermerhorn Sts,G,C
+557,A45,S01,2,180,Franklin Av,Franklin Av,C,S
+558,A46,A46,2,180,Nostrand Av,Nostrand Av,A,C
+559,A46,A46,2,180,Nostrand Av,Nostrand Av,C,A
+560,A48,A48,2,0,Utica Av,Utica Av,A,C
+561,A48,A48,2,0,Utica Av,Utica Av,C,A
+562,A51,A51,2,0,Broadway Jct,Broadway Jct,A,C
+563,A51,A51,2,0,Broadway Jct,Broadway Jct,C,A
+564,A51,J27,2,180,Broadway Jct,Broadway Jct,A,J
+565,A51,J27,2,180,Broadway Jct,Broadway Jct,A,Z
+566,A51,J27,2,180,Broadway Jct,Broadway Jct,C,J
+567,A51,J27,2,180,Broadway Jct,Broadway Jct,C,Z
+568,A51,L22,2,180,Broadway Jct,Broadway Jct,A,L
+569,A51,L22,2,180,Broadway Jct,Broadway Jct,C,L
+570,A55,A55,2,0,Euclid Av,Euclid Av,A,C
+571,A55,A55,2,0,Euclid Av,Euclid Av,C,A
+572,B08,629,2,300,Lexington Av/63 St,59 St,F,4
+573,B08,629,2,300,Lexington Av/63 St,59 St,F,5
+574,B08,629,2,300,Lexington Av/63 St,59 St,F,6
+575,B08,629,2,300,Lexington Av/63 St,59 St,Q,4
+576,B08,629,2,300,Lexington Av/63 St,59 St,Q,5
+577,B08,629,2,300,Lexington Av/63 St,59 St,Q,6
+578,B08,B08,2,180,Lexington Av/63 St,Lexington Av/63 St,F,Q
+579,B08,B08,2,180,Lexington Av/63 St,Lexington Av/63 St,Q,F
+580,B08,R11,2,300,Lexington Av/63 St,Lexington Av/59 St,F,N
+581,B08,R11,2,300,Lexington Av/63 St,Lexington Av/59 St,F,W
+582,B08,R11,2,300,Lexington Av/63 St,Lexington Av/59 St,F,R
+583,B08,R11,2,300,Lexington Av/63 St,Lexington Av/59 St,Q,N
+584,B08,R11,2,300,Lexington Av/63 St,Lexington Av/59 St,Q,W
+585,B08,R11,2,300,Lexington Av/63 St,Lexington Av/59 St,Q,R
+586,B16,N04,2,180,62 St,New Utrecht Av,D,N
+587,D03,D03,2,0,Bedford Park Blvd,Bedford Park Blvd,B,D
+588,D03,D03,2,0,Bedford Park Blvd,Bedford Park Blvd,D,B
+589,D04,D04,2,0,Kingsbridge Rd,Kingsbridge Rd,B,D
+590,D04,D04,2,0,Kingsbridge Rd,Kingsbridge Rd,D,B
+591,D05,D05,2,0,Fordham Rd,Fordham Rd,B,D
+592,D05,D05,2,0,Fordham Rd,Fordham Rd,D,B
+593,D06,D06,2,180,182-183 Sts,182-183 Sts,B,D
+594,D06,D06,2,180,182-183 Sts,182-183 Sts,D,B
+595,D07,D07,2,0,Tremont Av,Tremont Av,B,D
+596,D07,D07,2,0,Tremont Av,Tremont Av,D,B
+597,D08,D08,2,180,174-175 Sts,174-175 Sts,B,D
+598,D08,D08,2,180,174-175 Sts,174-175 Sts,D,B
+599,D09,D09,2,180,170 St,170 St,B,D
+600,D09,D09,2,180,170 St,170 St,D,B
+601,D10,D10,2,180,167 St,167 St,B,D
+602,D10,D10,2,180,167 St,167 St,D,B
+603,D11,414,2,180,161 St - Yankee Stadium,161 St - Yankee Stadium,B,4
+604,D11,414,2,180,161 St - Yankee Stadium,161 St - Yankee Stadium,D,4
+605,D11,D11,2,180,161 St - Yankee Stadium,161 St - Yankee Stadium,B,D
+606,D11,D11,2,180,161 St - Yankee Stadium,161 St - Yankee Stadium,D,B
+607,D12,D12,2,180,155 St,155 St,B,D
+608,D12,D12,2,180,155 St,155 St,D,B
+609,D13,A12,2,180,145 St,145 St,B,A
+610,D13,A12,2,180,145 St,145 St,B,C
+611,D13,A12,2,180,145 St,145 St,D,A
+612,D13,A12,2,180,145 St,145 St,D,C
+613,D13,D13,2,0,145 St,145 St,B,D
+614,D13,D13,2,0,145 St,145 St,D,B
+615,D14,D14,2,180,7 Av,7 Av,B,D
+616,D14,D14,2,180,7 Av,7 Av,B,E
+617,D14,D14,2,180,7 Av,7 Av,D,B
+618,D14,D14,2,180,7 Av,7 Av,D,E
+619,D14,D14,2,180,7 Av,7 Av,E,B
+620,D14,D14,2,180,7 Av,7 Av,E,D
+621,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,B,D
+622,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,B,F
+623,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,B,M
+624,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,D,B
+625,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,D,F
+626,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,D,M
+627,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,F,B
+628,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,F,D
+629,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,F,M
+630,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,M,B
+631,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,M,D
+632,D15,D15,2,300,47-50 Sts - Rockefeller Ctr,47-50 Sts - Rockefeller Ctr,M,F
+633,D16,724,2,180,42 St - Bryant Pk,5 Av,B,7
+634,D16,724,2,180,42 St - Bryant Pk,5 Av,D,7
+635,D16,724,2,180,42 St - Bryant Pk,5 Av,F,7
+636,D16,724,2,180,42 St - Bryant Pk,5 Av,M,7
+637,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,B,D
+638,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,B,F
+639,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,B,M
+640,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,D,B
+641,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,D,F
+642,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,D,M
+643,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,F,B
+644,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,F,D
+645,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,F,M
+646,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,M,B
+647,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,M,D
+648,D16,D16,2,0,42 St - Bryant Pk,42 St - Bryant Pk,M,F
+649,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,B,D
+650,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,B,F
+651,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,B,M
+652,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,D,B
+653,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,D,F
+654,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,D,M
+655,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,F,B
+656,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,F,D
+657,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,F,M
+658,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,M,B
+659,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,M,D
+660,D17,D17,2,0,34 St - Herald Sq,34 St - Herald Sq,M,F
+661,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,B,N
+662,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,B,Q
+663,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,B,R
+664,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,B,W
+665,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,D,N
+666,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,D,Q
+667,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,D,R
+668,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,D,W
+669,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,F,N
+670,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,F,Q
+671,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,F,R
+672,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,F,W
+673,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,M,N
+674,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,M,Q
+675,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,M,R
+676,D17,R17,2,180,34 St - Herald Sq,34 St - Herald Sq,M,W
+677,D18,D18,2,180,23 St,23 St,F,M
+678,D18,D18,2,180,23 St,23 St,M,F
+679,D19,132,2,300,14 St,14 St,F,1
+680,D19,132,2,300,14 St,14 St,F,2
+681,D19,132,2,300,14 St,14 St,F,3
+682,D19,132,2,300,14 St,14 St,M,1
+683,D19,132,2,300,14 St,14 St,M,2
+684,D19,132,2,300,14 St,14 St,M,3
+685,D19,D19,2,180,14 St,14 St,F,M
+686,D19,D19,2,180,14 St,14 St,M,F
+687,D19,L02,2,180,14 St,6 Av,F,L
+688,D19,L02,2,180,14 St,6 Av,M,L
+689,D20,A32,2,180,W 4 St,W 4 St,B,A
+690,D20,A32,2,180,W 4 St,W 4 St,B,C
+691,D20,A32,2,180,W 4 St,W 4 St,B,E
+692,D20,A32,2,180,W 4 St,W 4 St,D,A
+693,D20,A32,2,180,W 4 St,W 4 St,D,C
+694,D20,A32,2,180,W 4 St,W 4 St,D,E
+695,D20,A32,2,180,W 4 St,W 4 St,F,A
+696,D20,A32,2,180,W 4 St,W 4 St,F,C
+697,D20,A32,2,180,W 4 St,W 4 St,F,E
+698,D20,A32,2,180,W 4 St,W 4 St,M,A
+699,D20,A32,2,180,W 4 St,W 4 St,M,C
+700,D20,A32,2,180,W 4 St,W 4 St,M,E
+701,D20,D20,2,0,W 4 St,W 4 St,B,D
+702,D20,D20,2,0,W 4 St,W 4 St,B,F
+703,D20,D20,2,0,W 4 St,W 4 St,B,M
+704,D20,D20,2,0,W 4 St,W 4 St,D,B
+705,D20,D20,2,0,W 4 St,W 4 St,D,F
+706,D20,D20,2,0,W 4 St,W 4 St,D,M
+707,D20,D20,2,0,W 4 St,W 4 St,F,B
+708,D20,D20,2,0,W 4 St,W 4 St,F,D
+709,D20,D20,2,0,W 4 St,W 4 St,F,M
+710,D20,D20,2,0,W 4 St,W 4 St,M,B
+711,D20,D20,2,0,W 4 St,W 4 St,M,D
+712,D20,D20,2,0,W 4 St,W 4 St,M,F
+713,D21,637,2,180,Broadway-Lafayette St,Bleecker St,B,6
+714,D21,637,2,180,Broadway-Lafayette St,Bleecker St,D,6
+715,D21,637,2,180,Broadway-Lafayette St,Bleecker St,F,6
+716,D21,637,2,180,Broadway-Lafayette St,Bleecker St,M,6
+717,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,B,D
+718,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,B,F
+719,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,B,M
+720,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,D,B
+721,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,D,F
+722,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,D,M
+723,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,F,B
+724,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,F,D
+725,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,F,M
+726,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,M,B
+727,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,M,D
+728,D21,D21,2,0,Broadway-Lafayette St,Broadway-Lafayette St,M,F
+729,D22,D22,2,180,Grand St,Grand St,B,D
+730,D22,D22,2,180,Grand St,Grand St,D,B
+731,D24,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,B,2
+732,D24,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,B,3
+733,D24,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,Q,2
+734,D24,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,Q,3
+735,D24,D24,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,B,Q
+736,D24,D24,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,Q,B
+737,D24,R31,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,B,D
+738,D24,R31,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,B,N
+739,D24,R31,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,B,R
+740,D24,R31,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,Q,D
+741,D24,R31,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,Q,N
+742,D24,R31,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,Q,R
+743,D25,D25,2,180,7 Av,7 Av,B,Q
+744,D25,D25,2,180,7 Av,7 Av,Q,B
+745,D26,D26,2,180,Prospect Park,Prospect Park,B,Q
+746,D26,D26,2,180,Prospect Park,Prospect Park,Q,B
+747,D27,D27,2,180,Parkside Av,Parkside Av,B,Q
+748,D27,D27,2,180,Parkside Av,Parkside Av,Q,B
+749,D28,D28,2,0,Church Av,Church Av,B,Q
+750,D28,D28,2,0,Church Av,Church Av,Q,B
+751,D29,D29,2,180,Beverley Rd,Beverley Rd,B,Q
+752,D29,D29,2,180,Beverley Rd,Beverley Rd,Q,B
+753,D30,D30,2,180,Cortelyou Rd,Cortelyou Rd,B,Q
+754,D30,D30,2,180,Cortelyou Rd,Cortelyou Rd,Q,B
+755,D31,D31,2,0,Newkirk Plaza,Newkirk Plaza,B,Q
+756,D31,D31,2,0,Newkirk Plaza,Newkirk Plaza,Q,B
+757,D32,D32,2,180,Avenue H,Avenue H,B,Q
+758,D32,D32,2,180,Avenue H,Avenue H,Q,B
+759,D33,D33,2,180,Avenue J,Avenue J,B,Q
+760,D33,D33,2,180,Avenue J,Avenue J,Q,B
+761,D34,D34,2,180,Avenue M,Avenue M,B,Q
+762,D34,D34,2,180,Avenue M,Avenue M,Q,B
+763,D35,D35,2,0,Kings Hwy,Kings Hwy,B,Q
+764,D35,D35,2,0,Kings Hwy,Kings Hwy,Q,B
+765,D37,D37,2,180,Avenue U,Avenue U,B,Q
+766,D37,D37,2,180,Avenue U,Avenue U,Q,B
+767,D38,D38,2,180,Neck Rd,Neck Rd,B,Q
+768,D38,D38,2,180,Neck Rd,Neck Rd,Q,B
+769,D39,D39,2,0,Sheepshead Bay,Sheepshead Bay,B,Q
+770,D39,D39,2,0,Sheepshead Bay,Sheepshead Bay,Q,B
+771,D40,D40,2,300,Brighton Beach,Brighton Beach,B,Q
+772,D40,D40,2,300,Brighton Beach,Brighton Beach,Q,B
+773,D42,D42,2,180,W 8 St - NY Aquarium,W 8 St - NY Aquarium,F,Q
+774,D42,D42,2,180,W 8 St - NY Aquarium,W 8 St - NY Aquarium,Q,F
+775,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,D,F
+776,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,D,N
+777,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,D,Q
+778,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,F,D
+779,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,F,N
+780,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,F,Q
+781,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,N,D
+782,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,N,F
+783,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,N,Q
+784,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,Q,D
+785,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,Q,F
+786,D43,D43,2,180,Coney Island - Stillwell Av,Coney Island - Stillwell Av,Q,N
+787,E01,228,2,180,World Trade Center,Park Pl,E,2
+788,E01,228,2,180,World Trade Center,Park Pl,E,3
+789,E01,A36,2,300,World Trade Center,Chambers St,E,A
+790,E01,A36,2,300,World Trade Center,Chambers St,E,C
+791,F06,F06,2,0,Kew Gardens - Union Tpke,Kew Gardens - Union Tpke,E,F
+792,F06,F06,2,0,Kew Gardens - Union Tpke,Kew Gardens - Union Tpke,F,E
+793,F07,F07,2,180,75 Av,75 Av,E,F
+794,F07,F07,2,180,75 Av,75 Av,F,E
+795,F09,719,2,300,Court Sq,Court Sq,E,7
+796,F09,719,2,300,Court Sq,Court Sq,M,7
+797,F09,F09,2,180,Court Sq,Court Sq,E,M
+798,F09,F09,2,180,Court Sq,Court Sq,M,E
+799,F09,G22,2,180,Court Sq,Court Sq,E,G
+800,F09,G22,2,180,Court Sq,Court Sq,M,G
+801,F11,630,2,180,Lexington Av/53 St,51 St,E,6
+802,F11,630,2,180,Lexington Av/53 St,51 St,M,6
+803,F11,F11,2,180,Lexington Av/53 St,Lexington Av/53 St,E,M
+804,F11,F11,2,180,Lexington Av/53 St,Lexington Av/53 St,M,E
+805,F12,F12,2,180,5 Av/53 St,5 Av/53 St,E,M
+806,F12,F12,2,180,5 Av/53 St,5 Av/53 St,M,E
+807,F15,M18,2,180,Delancey St,Essex St,F,J
+808,F15,M18,2,180,Delancey St,Essex St,F,M
+809,F15,M18,2,180,Delancey St,Essex St,F,Z
+810,F21,F21,2,180,Carroll St,Carroll St,F,G
+811,F21,F21,2,180,Carroll St,Carroll St,G,F
+812,F22,F22,2,180,Smith - 9 Sts,Smith - 9 Sts,F,G
+813,F22,F22,2,180,Smith - 9 Sts,Smith - 9 Sts,G,F
+814,F23,F23,2,180,4 Av,4 Av,F,G
+815,F23,F23,2,180,4 Av,4 Av,G,F
+816,F23,R33,2,180,4 Av,9 St,F,R
+817,F23,R33,2,180,4 Av,9 St,G,R
+818,F24,F24,2,0,7 Av,7 Av,F,G
+819,F24,F24,2,0,7 Av,7 Av,G,F
+820,F25,F25,2,180,15 St - Prospect Park,15 St - Prospect Park,F,G
+821,F25,F25,2,180,15 St - Prospect Park,15 St - Prospect Park,G,F
+822,F26,F26,2,180,Fort Hamilton Pkwy,Fort Hamilton Pkwy,F,G
+823,F26,F26,2,180,Fort Hamilton Pkwy,Fort Hamilton Pkwy,G,F
+824,G05,G05,2,180,Jamaica Center - Parsons/Archer,Jamaica Center - Parsons/Archer,E,J
+825,G05,G05,2,180,Jamaica Center - Parsons/Archer,Jamaica Center - Parsons/Archer,E,Z
+826,G05,G05,2,180,Jamaica Center - Parsons/Archer,Jamaica Center - Parsons/Archer,J,E
+827,G05,G05,2,180,Jamaica Center - Parsons/Archer,Jamaica Center - Parsons/Archer,J,Z
+828,G05,G05,2,180,Jamaica Center - Parsons/Archer,Jamaica Center - Parsons/Archer,Z,E
+829,G05,G05,2,180,Jamaica Center - Parsons/Archer,Jamaica Center - Parsons/Archer,Z,J
+830,G06,G06,2,180,Sutphin Blvd - Archer Av - JFK Airport,Sutphin Blvd - Archer Av - JFK Airport,E,J
+831,G06,G06,2,180,Sutphin Blvd - Archer Av - JFK Airport,Sutphin Blvd - Archer Av - JFK Airport,E,Z
+832,G06,G06,2,180,Sutphin Blvd - Archer Av - JFK Airport,Sutphin Blvd - Archer Av - JFK Airport,J,E
+833,G06,G06,2,180,Sutphin Blvd - Archer Av - JFK Airport,Sutphin Blvd - Archer Av - JFK Airport,J,Z
+834,G06,G06,2,180,Sutphin Blvd - Archer Av - JFK Airport,Sutphin Blvd - Archer Av - JFK Airport,Z,E
+835,G06,G06,2,180,Sutphin Blvd - Archer Av - JFK Airport,Sutphin Blvd - Archer Av - JFK Airport,Z,J
+836,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,E,F
+837,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,E,M
+838,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,E,R
+839,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,F,E
+840,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,F,M
+841,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,F,R
+842,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,M,E
+843,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,M,F
+844,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,M,R
+845,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,R,E
+846,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,R,F
+847,G08,G08,2,0,Forest Hills - 71 Av,Forest Hills - 71 Av,R,M
+848,G09,G09,2,180,67 Av,67 Av,M,R
+849,G09,G09,2,180,67 Av,67 Av,R,M
+850,G10,G10,2,180,63 Dr - Rego Park,63 Dr - Rego Park,M,R
+851,G10,G10,2,180,63 Dr - Rego Park,63 Dr - Rego Park,R,M
+852,G11,G11,2,180,Woodhaven Blvd,Woodhaven Blvd,M,R
+853,G11,G11,2,180,Woodhaven Blvd,Woodhaven Blvd,R,M
+854,G12,G12,2,180,Grand Av - Newtown,Grand Av - Newtown,M,R
+855,G12,G12,2,180,Grand Av - Newtown,Grand Av - Newtown,R,M
+856,G13,G13,2,180,Elmhurst Av,Elmhurst Av,M,R
+857,G13,G13,2,180,Elmhurst Av,Elmhurst Av,R,M
+858,G14,710,2,180,Jackson Hts - Roosevelt Av,74 St - Broadway,E,7
+859,G14,710,2,180,Jackson Hts - Roosevelt Av,74 St - Broadway,F,7
+860,G14,710,2,180,Jackson Hts - Roosevelt Av,74 St - Broadway,M,7
+861,G14,710,2,180,Jackson Hts - Roosevelt Av,74 St - Broadway,R,7
+862,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,E,F
+863,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,E,M
+864,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,E,R
+865,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,F,E
+866,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,F,M
+867,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,F,R
+868,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,M,E
+869,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,M,F
+870,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,M,R
+871,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,R,E
+872,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,R,F
+873,G14,G14,2,180,Jackson Hts - Roosevelt Av,Jackson Hts - Roosevelt Av,R,M
+874,G15,G15,2,180,65 St,65 St,M,R
+875,G15,G15,2,180,65 St,65 St,R,M
+876,G16,G16,2,180,Northern Blvd,Northern Blvd,M,R
+877,G16,G16,2,180,Northern Blvd,Northern Blvd,R,M
+878,G18,G18,2,180,46 St,46 St,M,R
+879,G18,G18,2,180,46 St,46 St,R,M
+880,G19,G19,2,180,Steinway St,Steinway St,M,R
+881,G19,G19,2,180,Steinway St,Steinway St,R,M
+882,G20,G20,2,180,36 St,36 St,M,R
+883,G20,G20,2,180,36 St,36 St,R,M
+884,G21,G21,2,180,Queens Plaza,Queens Plaza,E,M
+885,G21,G21,2,180,Queens Plaza,Queens Plaza,E,R
+886,G21,G21,2,180,Queens Plaza,Queens Plaza,M,E
+887,G21,G21,2,180,Queens Plaza,Queens Plaza,M,R
+888,G21,G21,2,180,Queens Plaza,Queens Plaza,R,E
+889,G21,G21,2,180,Queens Plaza,Queens Plaza,R,M
+890,G22,719,2,180,Court Sq,Court Sq,G,7
+891,G22,F09,2,180,Court Sq,Court Sq,G,E
+892,G22,F09,2,180,Court Sq,Court Sq,G,M
+893,G29,L10,2,180,Metropolitan Av,Lorimer St,G,L
+894,H04,H04,2,180,Broad Channel,Broad Channel,A,S
+895,H04,H04,2,180,Broad Channel,Broad Channel,S,A
+896,H12,H12,2,180,Beach 90 St,Beach 90 St,A,S
+897,H12,H12,2,180,Beach 90 St,Beach 90 St,S,A
+898,H13,H13,2,180,Beach 98 St,Beach 98 St,A,S
+899,H13,H13,2,180,Beach 98 St,Beach 98 St,S,A
+900,H14,H14,2,180,Beach 105 St,Beach 105 St,A,S
+901,H14,H14,2,180,Beach 105 St,Beach 105 St,S,A
+902,H15,H15,2,180,Rockaway Park - Beach 116 St,Rockaway Park - Beach 116 St,A,S
+903,H15,H15,2,180,Rockaway Park - Beach 116 St,Rockaway Park - Beach 116 St,S,A
+904,J12,J12,2,180,121 St,121 St,J,Z
+905,J12,J12,2,180,121 St,121 St,Z,J
+906,J14,J14,2,180,104 St,104 St,J,Z
+907,J14,J14,2,180,104 St,104 St,Z,J
+908,J15,J15,2,180,Woodhaven Blvd,Woodhaven Blvd,J,Z
+909,J15,J15,2,180,Woodhaven Blvd,Woodhaven Blvd,Z,J
+910,J17,J17,2,180,75 St,75 St,J,Z
+911,J17,J17,2,180,75 St,75 St,Z,J
+912,J20,J20,2,180,Crescent St,Crescent St,J,Z
+913,J20,J20,2,180,Crescent St,Crescent St,Z,J
+914,J21,J21,2,180,Norwood Av,Norwood Av,J,Z
+915,J21,J21,2,180,Norwood Av,Norwood Av,Z,J
+916,J23,J23,2,180,Van Siclen Av,Van Siclen Av,J,Z
+917,J23,J23,2,180,Van Siclen Av,Van Siclen Av,Z,J
+918,J27,A51,2,180,Broadway Jct,Broadway Jct,J,A
+919,J27,A51,2,180,Broadway Jct,Broadway Jct,J,C
+920,J27,A51,2,180,Broadway Jct,Broadway Jct,Z,A
+921,J27,A51,2,180,Broadway Jct,Broadway Jct,Z,C
+922,J27,J27,2,0,Broadway Jct,Broadway Jct,J,Z
+923,J27,J27,2,0,Broadway Jct,Broadway Jct,Z,J
+924,J27,L22,2,180,Broadway Jct,Broadway Jct,J,L
+925,J27,L22,2,180,Broadway Jct,Broadway Jct,Z,L
+926,J28,J28,2,180,Chauncey St,Chauncey St,J,Z
+927,J28,J28,2,180,Chauncey St,Chauncey St,Z,J
+928,J30,J30,2,180,Gates Av,Gates Av,J,Z
+929,J30,J30,2,180,Gates Av,Gates Av,Z,J
+930,L01,A31,2,90,8 Av,14 St,L,A
+931,L01,A31,2,90,8 Av,14 St,L,C
+932,L01,A31,2,90,8 Av,14 St,L,E
+933,L02,132,2,180,6 Av,14 St,L,1
+934,L02,132,2,180,6 Av,14 St,L,2
+935,L02,132,2,180,6 Av,14 St,L,3
+936,L02,D19,2,180,6 Av,14 St,L,F
+937,L02,D19,2,180,6 Av,14 St,L,M
+938,L03,635,2,180,Union Sq - 14 St,14 St - Union Sq,L,4
+939,L03,635,2,180,Union Sq - 14 St,14 St - Union Sq,L,5
+940,L03,635,2,180,Union Sq - 14 St,14 St - Union Sq,L,6
+941,L03,R20,2,180,Union Sq - 14 St,14 St - Union Sq,L,N
+942,L03,R20,2,180,Union Sq - 14 St,14 St - Union Sq,L,Q
+943,L03,R20,2,180,Union Sq - 14 St,14 St - Union Sq,L,R
+944,L03,R20,2,180,Union Sq - 14 St,14 St - Union Sq,L,W
+945,L10,G29,2,180,Lorimer St,Metropolitan Av,L,G
+946,L17,M08,2,180,Myrtle - Wyckoff Avs,Myrtle - Wyckoff Avs,L,M
+947,L22,A51,2,180,Broadway Jct,Broadway Jct,L,A
+948,L22,A51,2,180,Broadway Jct,Broadway Jct,L,C
+949,L22,J27,2,180,Broadway Jct,Broadway Jct,L,J
+950,L22,J27,2,180,Broadway Jct,Broadway Jct,L,Z
+951,L26,254,2,300,Livonia Av,Junius St,L,3
+952,M08,L17,2,180,Myrtle - Wyckoff Avs,Myrtle - Wyckoff Avs,M,L
+953,M11,M11,2,0,Myrtle Av,Myrtle Av,J,M
+954,M11,M11,2,0,Myrtle Av,Myrtle Av,J,Z
+955,M11,M11,2,0,Myrtle Av,Myrtle Av,M,J
+956,M11,M11,2,0,Myrtle Av,Myrtle Av,M,Z
+957,M11,M11,2,0,Myrtle Av,Myrtle Av,Z,J
+958,M11,M11,2,0,Myrtle Av,Myrtle Av,Z,M
+959,M12,M12,2,180,Flushing Av,Flushing Av,J,M
+960,M12,M12,2,180,Flushing Av,Flushing Av,M,J
+961,M13,M13,2,180,Lorimer St,Lorimer St,J,M
+962,M13,M13,2,180,Lorimer St,Lorimer St,M,J
+963,M14,M14,2,180,Hewes St,Hewes St,J,M
+964,M14,M14,2,180,Hewes St,Hewes St,M,J
+965,M16,M16,2,0,Marcy Av,Marcy Av,J,M
+966,M16,M16,2,0,Marcy Av,Marcy Av,J,Z
+967,M16,M16,2,0,Marcy Av,Marcy Av,M,J
+968,M16,M16,2,0,Marcy Av,Marcy Av,M,Z
+969,M16,M16,2,0,Marcy Av,Marcy Av,Z,J
+970,M16,M16,2,0,Marcy Av,Marcy Av,Z,M
+971,M18,F15,2,180,Essex St,Delancey St,J,F
+972,M18,F15,2,180,Essex St,Delancey St,M,F
+973,M18,F15,2,180,Essex St,Delancey St,Z,F
+974,M18,M18,2,180,Essex St,Essex St,J,M
+975,M18,M18,2,180,Essex St,Essex St,J,Z
+976,M18,M18,2,180,Essex St,Essex St,M,J
+977,M18,M18,2,180,Essex St,Essex St,M,Z
+978,M18,M18,2,180,Essex St,Essex St,Z,J
+979,M18,M18,2,180,Essex St,Essex St,Z,M
+980,M19,M19,2,180,Bowery,Bowery,J,Z
+981,M19,M19,2,180,Bowery,Bowery,Z,J
+982,M20,639,2,180,Canal St,Canal St,J,6
+983,M20,639,2,180,Canal St,Canal St,Z,6
+984,M20,M20,2,180,Canal St,Canal St,J,Z
+985,M20,M20,2,180,Canal St,Canal St,Z,J
+986,M20,Q01,2,180,Canal St,Canal St,J,N
+987,M20,Q01,2,180,Canal St,Canal St,J,Q
+988,M20,Q01,2,180,Canal St,Canal St,Z,N
+989,M20,Q01,2,180,Canal St,Canal St,Z,Q
+990,M20,R23,2,300,Canal St,Canal St,J,R
+991,M20,R23,2,300,Canal St,Canal St,J,W
+992,M20,R23,2,300,Canal St,Canal St,Z,R
+993,M20,R23,2,300,Canal St,Canal St,Z,W
+994,M21,640,2,180,Chambers St,Brooklyn Bridge - City Hall,J,4
+995,M21,640,2,180,Chambers St,Brooklyn Bridge - City Hall,J,5
+996,M21,640,2,180,Chambers St,Brooklyn Bridge - City Hall,J,6
+997,M21,640,2,180,Chambers St,Brooklyn Bridge - City Hall,Z,4
+998,M21,640,2,180,Chambers St,Brooklyn Bridge - City Hall,Z,5
+999,M21,640,2,180,Chambers St,Brooklyn Bridge - City Hall,Z,6
+1000,M21,M21,2,180,Chambers St,Chambers St,J,Z
+1001,M21,M21,2,180,Chambers St,Chambers St,Z,J
+1002,M22,229,2,300,Fulton St,Fulton St,J,2
+1003,M22,229,2,300,Fulton St,Fulton St,J,3
+1004,M22,229,2,300,Fulton St,Fulton St,Z,2
+1005,M22,229,2,300,Fulton St,Fulton St,Z,3
+1006,M22,418,2,300,Fulton St,Fulton St,J,4
+1007,M22,418,2,300,Fulton St,Fulton St,J,5
+1008,M22,418,2,300,Fulton St,Fulton St,Z,4
+1009,M22,418,2,300,Fulton St,Fulton St,Z,5
+1010,M22,A38,2,180,Fulton St,Fulton St,J,A
+1011,M22,A38,2,180,Fulton St,Fulton St,J,C
+1012,M22,A38,2,180,Fulton St,Fulton St,Z,A
+1013,M22,A38,2,180,Fulton St,Fulton St,Z,C
+1014,M22,M22,2,180,Fulton St,Fulton St,J,Z
+1015,M22,M22,2,180,Fulton St,Fulton St,Z,J
+1016,M23,M23,2,180,Broad St,Broad St,J,Z
+1017,M23,M23,2,180,Broad St,Broad St,Z,J
+1018,N04,B16,2,180,New Utrecht Av,62 St,N,D
+1019,Q01,639,2,180,Canal St,Canal St,N,6
+1020,Q01,639,2,180,Canal St,Canal St,Q,6
+1021,Q01,M20,2,180,Canal St,Canal St,N,J
+1022,Q01,M20,2,180,Canal St,Canal St,N,Z
+1023,Q01,M20,2,180,Canal St,Canal St,Q,J
+1024,Q01,M20,2,180,Canal St,Canal St,Q,Z
+1025,Q01,Q01,2,180,Canal St,Canal St,N,Q
+1026,Q01,Q01,2,180,Canal St,Canal St,Q,N
+1027,Q01,R23,2,180,Canal St,Canal St,N,R
+1028,Q01,R23,2,180,Canal St,Canal St,N,W
+1029,Q01,R23,2,180,Canal St,Canal St,Q,R
+1030,Q01,R23,2,180,Canal St,Canal St,Q,W
+1031,R01,R01,2,180,Astoria - Ditmars Blvd,Astoria - Ditmars Blvd,N,W
+1032,R01,R01,2,180,Astoria - Ditmars Blvd,Astoria - Ditmars Blvd,W,N
+1033,R03,R03,2,0,Astoria Blvd,Astoria Blvd,N,W
+1034,R03,R03,2,0,Astoria Blvd,Astoria Blvd,W,N
+1035,R04,R04,2,180,30 Av,30 Av,N,W
+1036,R04,R04,2,180,30 Av,30 Av,W,N
+1037,R05,R05,2,180,Broadway,Broadway,N,W
+1038,R05,R05,2,180,Broadway,Broadway,W,N
+1039,R06,R06,2,180,36 Av,36 Av,N,W
+1040,R06,R06,2,180,36 Av,36 Av,W,N
+1041,R08,R08,2,180,39 Av,39 Av,N,W
+1042,R08,R08,2,180,39 Av,39 Av,W,N
+1043,R09,718,2,0,Queensboro Plaza,Queensboro Plaza,N,7
+1044,R09,718,2,0,Queensboro Plaza,Queensboro Plaza,W,7
+1045,R09,R09,2,0,Queensboro Plaza,Queensboro Plaza,N,W
+1046,R09,R09,2,0,Queensboro Plaza,Queensboro Plaza,W,N
+1047,R11,629,2,180,Lexington Av/59 St,59 St,N,4
+1048,R11,629,2,180,Lexington Av/59 St,59 St,N,5
+1049,R11,629,2,180,Lexington Av/59 St,59 St,N,6
+1050,R11,629,2,180,Lexington Av/59 St,59 St,W,4
+1051,R11,629,2,180,Lexington Av/59 St,59 St,W,5
+1052,R11,629,2,180,Lexington Av/59 St,59 St,W,6
+1053,R11,629,2,180,Lexington Av/59 St,59 St,R,4
+1054,R11,629,2,180,Lexington Av/59 St,59 St,R,5
+1055,R11,629,2,180,Lexington Av/59 St,59 St,R,6
+1056,R11,B08,2,300,Lexington Av/59 St,Lexington Av/63 St,N,F
+1057,R11,B08,2,300,Lexington Av/59 St,Lexington Av/63 St,N,Q
+1058,R11,B08,2,300,Lexington Av/59 St,Lexington Av/63 St,W,F
+1059,R11,B08,2,300,Lexington Av/59 St,Lexington Av/63 St,W,Q
+1060,R11,B08,2,300,Lexington Av/59 St,Lexington Av/63 St,R,F
+1061,R11,B08,2,300,Lexington Av/59 St,Lexington Av/63 St,R,Q
+1062,R11,R11,2,0,Lexington Av/59 St,Lexington Av/59 St,N,W
+1063,R11,R11,2,0,Lexington Av/59 St,Lexington Av/59 St,N,R
+1064,R11,R11,2,0,Lexington Av/59 St,Lexington Av/59 St,W,N
+1065,R11,R11,2,0,Lexington Av/59 St,Lexington Av/59 St,W,R
+1066,R11,R11,2,0,Lexington Av/59 St,Lexington Av/59 St,R,N
+1067,R11,R11,2,0,Lexington Av/59 St,Lexington Av/59 St,R,W
+1068,R13,R13,2,180,5 Av/59 St,5 Av/59 St,N,W
+1069,R13,R13,2,180,5 Av/59 St,5 Av/59 St,N,R
+1070,R13,R13,2,180,5 Av/59 St,5 Av/59 St,W,N
+1071,R13,R13,2,180,5 Av/59 St,5 Av/59 St,W,R
+1072,R13,R13,2,180,5 Av/59 St,5 Av/59 St,R,N
+1073,R13,R13,2,180,5 Av/59 St,5 Av/59 St,R,W
+1074,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,N,Q
+1075,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,N,R
+1076,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,N,W
+1077,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,Q,N
+1078,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,Q,R
+1079,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,Q,W
+1080,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,R,N
+1081,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,R,Q
+1082,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,R,W
+1083,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,W,N
+1084,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,W,Q
+1085,R14,R14,2,180,57 St - 7 Av,57 St - 7 Av,W,R
+1086,R15,R15,2,180,49 St,49 St,N,R
+1087,R15,R15,2,180,49 St,49 St,N,W
+1088,R15,R15,2,180,49 St,49 St,R,N
+1089,R15,R15,2,180,49 St,49 St,R,W
+1090,R15,R15,2,180,49 St,49 St,W,N
+1091,R15,R15,2,180,49 St,49 St,W,R
+1092,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,N,1
+1093,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,N,2
+1094,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,N,3
+1095,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,Q,1
+1096,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,Q,2
+1097,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,Q,3
+1098,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,R,1
+1099,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,R,2
+1100,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,R,3
+1101,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,W,1
+1102,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,W,2
+1103,R16,127,2,180,Times Sq - 42 St,Times Sq - 42 St,W,3
+1104,R16,725,2,180,Times Sq - 42 St,Times Sq - 42 St,N,7
+1105,R16,725,2,180,Times Sq - 42 St,Times Sq - 42 St,Q,7
+1106,R16,725,2,180,Times Sq - 42 St,Times Sq - 42 St,R,7
+1107,R16,725,2,180,Times Sq - 42 St,Times Sq - 42 St,W,7
+1108,R16,902,2,180,Times Sq - 42 St,Times Sq - 42 St,N,S
+1109,R16,902,2,180,Times Sq - 42 St,Times Sq - 42 St,Q,S
+1110,R16,902,2,180,Times Sq - 42 St,Times Sq - 42 St,R,S
+1111,R16,902,2,180,Times Sq - 42 St,Times Sq - 42 St,W,S
+1112,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,N,A
+1113,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,N,C
+1114,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,N,E
+1115,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,Q,A
+1116,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,Q,C
+1117,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,Q,E
+1118,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,R,A
+1119,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,R,C
+1120,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,R,E
+1121,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,W,A
+1122,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,W,C
+1123,R16,A27,2,300,Times Sq - 42 St,42 St - Port Authority Bus Terminal,W,E
+1124,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,N,Q
+1125,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,N,R
+1126,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,N,W
+1127,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,Q,N
+1128,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,Q,R
+1129,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,Q,W
+1130,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,R,N
+1131,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,R,Q
+1132,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,R,W
+1133,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,W,N
+1134,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,W,Q
+1135,R16,R16,2,0,Times Sq - 42 St,Times Sq - 42 St,W,R
+1136,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,N,B
+1137,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,N,D
+1138,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,N,F
+1139,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,N,M
+1140,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,Q,B
+1141,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,Q,D
+1142,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,Q,F
+1143,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,Q,M
+1144,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,R,B
+1145,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,R,D
+1146,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,R,F
+1147,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,R,M
+1148,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,W,B
+1149,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,W,D
+1150,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,W,F
+1151,R17,D17,2,180,34 St - Herald Sq,34 St - Herald Sq,W,M
+1152,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,N,Q
+1153,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,N,R
+1154,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,N,W
+1155,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,Q,N
+1156,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,Q,R
+1157,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,Q,W
+1158,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,R,N
+1159,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,R,Q
+1160,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,R,W
+1161,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,W,N
+1162,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,W,Q
+1163,R17,R17,2,0,34 St - Herald Sq,34 St - Herald Sq,W,R
+1164,R18,R18,2,180,28 St,28 St,R,W
+1165,R18,R18,2,180,28 St,28 St,W,R
+1166,R19,R19,2,180,23 St,23 St,R,W
+1167,R19,R19,2,180,23 St,23 St,W,R
+1168,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,N,4
+1169,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,N,5
+1170,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,N,6
+1171,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,Q,4
+1172,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,Q,5
+1173,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,Q,6
+1174,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,R,4
+1175,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,R,5
+1176,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,R,6
+1177,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,W,4
+1178,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,W,5
+1179,R20,635,2,180,14 St - Union Sq,14 St - Union Sq,W,6
+1180,R20,L03,2,180,14 St - Union Sq,Union Sq - 14 St,N,L
+1181,R20,L03,2,180,14 St - Union Sq,Union Sq - 14 St,Q,L
+1182,R20,L03,2,180,14 St - Union Sq,Union Sq - 14 St,R,L
+1183,R20,L03,2,180,14 St - Union Sq,Union Sq - 14 St,W,L
+1184,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,N,Q
+1185,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,N,R
+1186,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,N,W
+1187,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,Q,N
+1188,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,Q,R
+1189,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,Q,W
+1190,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,R,N
+1191,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,R,Q
+1192,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,R,W
+1193,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,W,N
+1194,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,W,Q
+1195,R20,R20,2,0,14 St - Union Sq,14 St - Union Sq,W,R
+1196,R21,R21,2,180,8 St - NYU,8 St - NYU,R,W
+1197,R21,R21,2,180,8 St - NYU,8 St - NYU,W,R
+1198,R22,R22,2,180,Prince St,Prince St,R,W
+1199,R22,R22,2,180,Prince St,Prince St,W,R
+1200,R23,639,2,180,Canal St,Canal St,R,6
+1201,R23,639,2,180,Canal St,Canal St,W,6
+1202,R23,M20,2,300,Canal St,Canal St,R,J
+1203,R23,M20,2,300,Canal St,Canal St,R,Z
+1204,R23,M20,2,300,Canal St,Canal St,W,J
+1205,R23,M20,2,300,Canal St,Canal St,W,Z
+1206,R23,Q01,2,180,Canal St,Canal St,R,N
+1207,R23,Q01,2,180,Canal St,Canal St,R,Q
+1208,R23,Q01,2,180,Canal St,Canal St,W,N
+1209,R23,Q01,2,180,Canal St,Canal St,W,Q
+1210,R23,R23,2,180,Canal St,Canal St,R,W
+1211,R23,R23,2,180,Canal St,Canal St,W,R
+1212,R24,R24,2,180,City Hall,City Hall,R,W
+1213,R24,R24,2,180,City Hall,City Hall,W,R
+1214,R26,R26,2,180,Rector St,Rector St,R,W
+1215,R26,R26,2,180,Rector St,Rector St,W,R
+1216,R27,R27,2,180,Whitehall St,Whitehall St,R,W
+1217,R27,R27,2,180,Whitehall St,Whitehall St,W,R
+1218,R27,140,2,120,Whitehall St,South Ferry Loop,R,1
+1219,R27,140,2,120,Whitehall St,South Ferry Loop,W,1
+1220,R28,232,2,180,Court St,Borough Hall,R,2
+1221,R28,232,2,180,Court St,Borough Hall,R,3
+1222,R28,423,2,180,Court St,Borough Hall,R,4
+1223,R28,423,2,180,Court St,Borough Hall,R,5
+1224,R29,A41,2,90,Jay St - MetroTech,Jay St - MetroTech,R,A
+1225,R29,A41,2,90,Jay St - MetroTech,Jay St - MetroTech,R,C
+1226,R29,A41,2,90,Jay St - MetroTech,Jay St - MetroTech,R,F
+1227,R30,R30,2,180,DeKalb Av,DeKalb Av,B,Q
+1228,R30,R30,2,180,DeKalb Av,DeKalb Av,B,R
+1229,R30,R30,2,180,DeKalb Av,DeKalb Av,Q,B
+1230,R30,R30,2,180,DeKalb Av,DeKalb Av,Q,R
+1231,R30,R30,2,180,DeKalb Av,DeKalb Av,R,B
+1232,R30,R30,2,180,DeKalb Av,DeKalb Av,R,Q
+1233,R31,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,D,2
+1234,R31,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,D,3
+1235,R31,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,N,2
+1236,R31,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,N,3
+1237,R31,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,R,2
+1238,R31,235,2,180,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,R,3
+1239,R31,D24,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,D,B
+1240,R31,D24,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,D,Q
+1241,R31,D24,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,N,B
+1242,R31,D24,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,N,Q
+1243,R31,D24,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,R,B
+1244,R31,D24,2,300,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,R,Q
+1245,R31,R31,2,0,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,D,N
+1246,R31,R31,2,0,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,D,R
+1247,R31,R31,2,0,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,N,D
+1248,R31,R31,2,0,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,N,R
+1249,R31,R31,2,0,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,R,D
+1250,R31,R31,2,0,Atlantic Av - Barclays Ctr,Atlantic Av - Barclays Ctr,R,N
+1251,R33,F23,2,180,9 St,4 Av,R,F
+1252,R33,F23,2,180,9 St,4 Av,R,G
+1253,R36,R36,2,0,36 St,36 St,D,N
+1254,R36,R36,2,0,36 St,36 St,D,R
+1255,R36,R36,2,0,36 St,36 St,N,D
+1256,R36,R36,2,0,36 St,36 St,N,R
+1257,R36,R36,2,0,36 St,36 St,R,D
+1258,R36,R36,2,0,36 St,36 St,R,N
+1259,R41,R41,2,0,59 St,59 St,N,R
+1260,R41,R41,2,0,59 St,59 St,R,N
+1261,S01,A45,2,180,Franklin Av,Franklin Av,S,C
+1262,S04,239,2,180,Botanic Garden,Franklin Av,S,2
+1263,S04,239,2,180,Botanic Garden,Franklin Av,S,3
+1264,S04,239,2,180,Botanic Garden,Franklin Av,S,4
+1265,S04,239,2,180,Botanic Garden,Franklin Av,S,5
